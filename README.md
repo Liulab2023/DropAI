@@ -39,18 +39,6 @@ python:Version 3.8 or higher
 - `cleaning,mlx`: Matlab Live Scripts used to clustering, cleaning, and TSNE
 
 #  Requirements
-The following Python version and libraries are required to run the code:
-
-numpy==1.23.1
-pandas==1.4.4
-tqdm==4.65.0
-matplotlib==3.5.3
-logomaker==0.8
-seaborn==0.12.2
-biotite==0.38.0
-biopython==1.76
-ipython==8.5.0
-ipykernel==5.5.5
 
 You can install all dependencies with the following command:
 
