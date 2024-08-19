@@ -16,7 +16,7 @@ python:Version 3.8 or higher
 #  Project Structure
 - `/XGBoost & Transfer Learning/main.py`: The main script that executes the core algorithm.
 - `/XGBoost & Transfer Learning/code_demo`: Contains demo and related code required for the demo.
-- `method2_1.h5`: pretrained model, tensorflow 2.7-gpu
+- `method2_1.h5`: A pretrained model used to test demo, compiled with tensorflow keras
 - `Stage1-selection.ipynb`: Jupyter notebook Python script using in this work
 - `cleaning,mlx`: Matlab Live Scripts used to clustering, cleaning, and TSNE
 
