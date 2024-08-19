@@ -59,4 +59,4 @@ After running the codes, you will obtain relevant results and evaluations of the
 
 
 # License
-This project is open-sourced under the License. For more details, see the LICENSE file.
+This project is open-sourced under the MIT License. For more details, see the LICENSE file.
