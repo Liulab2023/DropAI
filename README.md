@@ -18,7 +18,7 @@ python:Version 3.8 or higher
 - `/XGBoost & Transfer Learning/code_demo`: Contains demo and related code required for the demo.
 - `/Selection/method2_1.h5`: A pretrained model used to test demo, compiled with tensorflow keras
 - `/Selection/Stage1-selection.ipynb`: Jupyter notebook Python script using in this work
-- `/Selection/cleaning,mlx`: Matlab Live Scripts used to clustering, cleaning, and TSNE
+- `/Selection/cleaning.mlx`: Matlab Live Scripts used to clustering, cleaning, and TSNE
 
 #  Requirements
 
