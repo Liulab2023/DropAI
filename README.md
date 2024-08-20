@@ -63,11 +63,12 @@ Run the XGBoost & Transfer Learning/main.py file to build and train the model.
 
 You can run the following demo code:
 
-XGBoost & Transfer Learning/code_demo/demo_transfer_learning.ipynb
+- `/Clustering Cleaning & TSNE/cleaning.mlx`
 
-XGBoost & Transfer Learning/code_demo/demo_XGBoost_model.ipynb
+- `/XGBoost & Transfer Learning/code_demo/demo_transfer_learning.ipynb`
 
-Selection/Stage1-selection.ipynb
+- `/XGBoost & Transfer Learning/code_demo/demo_XGBoost_model.ipynb`
+
 
 
 # Results and Analysis
