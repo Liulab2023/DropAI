@@ -22,10 +22,11 @@ This project contains the Python code used in the paper "AI-driven high-throughp
 #  Project Structure
 
 - `/Clustering Cleaning & TSNE/cleaning.mlx`:Matlab Live scripts are used for data preprocessing, including data clustering, cleaning, and T-SNE.
+- `/Combination Optimization/method2_1.h5`: A pretrained model used to test demo, compiled with tensorflow keras.
+- `/Combination Optimization/combination_optimization.ipynb`: Jupyter notebook for model building and training.
 - `/XGBoost & Transfer Learning/main.py`: The main script that executes the core algorithm.
 - `/XGBoost & Transfer Learning/code_demo`: Contains demo and related code required for the demo.
-- `/Selection/method2_1.h5`: A pretrained model used to test demo, compiled with tensorflow keras.
-- `/Selection/Stage1-selection.ipynb`: Jupyter notebook for model building and training.
+
   
 #  Requirements
 
@@ -53,7 +54,7 @@ Place your dataset in the appropriate directory.
 
 Run the Clustering Cleaning & TSNE/cleaning.mlx file to perform data preprocessing.
 
-Run the Selection/Stage1-selection.ipynb file to build and train the model.
+Run the Combination Optimization/combination_optimization.ipynb file to build and train the model.
 
 Run the XGBoost & Transfer Learning/main.py file to build and train the model.
 
